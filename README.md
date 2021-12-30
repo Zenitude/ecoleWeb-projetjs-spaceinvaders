@@ -9,3 +9,7 @@
 * Gérer les impact laser sur les aliens
 * Gérer l'impact des aliens sur le vaisseau
 * Gérer si les aliens dépasse le vaisseau
+
+> Projet précédent : [Particules](https://github.com/Zenitude/ecoleWeb-projetjs-particules)
+
+> Projet suivant : Lecteur Vidéo Personnalisé
