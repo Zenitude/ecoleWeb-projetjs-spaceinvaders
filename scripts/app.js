@@ -223,6 +223,10 @@ function deplaceEnnemis()
         score.innerHTML = '!!! GAME OVER !!!';
         toutesLesCases[vaisseauPosition].classList.add('alienTouche');
         clearInterval(aliensId);
+        setTimeout(() =>
+        {
+            location.reload();
+        },2000);
     }
 
     // Si un ennemi atteind la ligne du vaisseau
@@ -232,6 +236,10 @@ function deplaceEnnemis()
         {
             score.innerHTML = '!!! GAME OVER !!!';
             clearInterval(aliensId);
+            setTimeout(() =>
+            {
+                location.reload();
+            },2000);
         }
     }
 }
