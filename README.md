@@ -12,4 +12,4 @@
 
 > Projet précédent : [Particules](https://github.com/Zenitude/ecoleWeb-projetjs-particules)
 
-> Projet suivant : [Lecteur Vidéo Personnalisé]()
+> Projet suivant : [Lecteur Vidéo Personnalisé]
